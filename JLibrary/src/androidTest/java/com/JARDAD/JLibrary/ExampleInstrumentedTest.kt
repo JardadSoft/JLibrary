@@ -1,4 +1,4 @@
-package com.JARDAD.JLlibrary
+package com.JARDAD.JLibrary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

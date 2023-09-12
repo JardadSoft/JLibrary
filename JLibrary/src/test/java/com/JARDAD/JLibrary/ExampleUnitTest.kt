@@ -1,4 +1,4 @@
-package com.JARDAD.JLlibrary
+package com.JARDAD.JLibrary
 
 import org.junit.Test
 

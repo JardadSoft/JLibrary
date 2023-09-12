@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.JARDAD.JLlibrary"
+    namespace = "com.JARDAD.JLibrary"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.JARDAD.JLlibrary"
+        applicationId = "com.JARDAD.JLibrary"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
@@ -37,7 +37,7 @@ android {
 
 dependencies {
 
-    implementation("androidx.core:core-ktx:1.9.0")
+    implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.9.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
